@@ -1,0 +1,9 @@
+name: AnimalScatter
+main: com.leontg77.animalscatter.Main
+version: 1.0
+author: LeonTG77
+description: Scatter animals around the map.
+
+commands:
+  ascatter:
+    description: Scatter the given animal.
